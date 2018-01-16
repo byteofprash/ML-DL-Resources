@@ -5,6 +5,7 @@
 3. ### Courses:
 
 4. ### Blogs:
+1. [Neural Network Architectures - survey](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
 
 5. ### Category wise:
 
