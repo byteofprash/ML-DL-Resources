@@ -20,14 +20,24 @@
   1. #### CNN Introduction and survey:
   	- [Deep Learning - Technical introduction by Thomas Epelbaum](https://arxiv.org/pdf/1709.01412.pdf)
 
-  2. #### Image segmentation(Object detection):
+  2. #### CNN:
+  	- [Backpropagation in CNN](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+  	- [DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf)
+
+  3. #### Classification + Localization:
+  	- [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
+
+  4. #### Image segmentation(Object detection):
   	- [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4) - ~Comprehensive report
-  	- [R-CNN]: (https://arxiv.org/abs/1311.2524)
+  	- [Object detection: an overview in the age of Deep Learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
+  	- [R-CNN]: (https://arxiv.org/abs/1311.2524)w
 	- [Fast R-CNN]: (https://arxiv.org/abs/1504.08083)
 	- [Faster R-CNN]: (https://arxiv.org/abs/1506.01497)
 	- [Mask R-CNN]: (https://arxiv.org/abs/1703.06870)
+	- [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
+	- [YOLO:You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 
-  3. Semantic Segmentation:
+  5. #### Semantic Segmentation:
   	- [Guide to Semantic Segmentation with DL (Qure.au)](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
   	- [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
 
