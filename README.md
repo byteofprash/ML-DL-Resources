@@ -2,7 +2,7 @@
   1. Papers from the deep learning lecture:
     - [One-Shot Video Object Segmentation, CVPR 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)
     - [Deep Learning - Technical introduction by Thomas Epelbaum](https://arxiv.org/pdf/1709.01412.pdf)
-     
+
 * ### Interesting Github Repos:
 
 * ### Courses:
@@ -21,14 +21,16 @@
   2. #### CNN:
   	- [Backpropagation in CNN](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
   	- [DeepPose: Human Pose Estimation via Deep Neural Networks](https://arxiv.org/pdf/1312.4659.pdf)
+    - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/index.html) ~ An extremely well written comprehensive blog! must read.
 
   3. #### Classification + Localization:
   	- [OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks](https://arxiv.org/pdf/1312.6229.pdf)
 
   4. #### Image segmentation(Object detection):
   	- [A Brief History of CNNs in Image Segmentation: From R-CNN to Mask R-CNN](https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4) - ~Comprehensive report
+    - [Selective Search for Object Recognition](http://www.huppelen.nl/publications/selectiveSearchDraft.pdf)
   	- [Object detection: an overview in the age of Deep Learning](https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/)
-  	- [R-CNN]: (https://arxiv.org/abs/1311.2524)w
+  	- [R-CNN](https://arxiv.org/abs/1311.2524)w
   	- [Fast R-CNN](https://arxiv.org/abs/1504.08083)
   	- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
   	- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
@@ -38,7 +40,16 @@
   5. #### Semantic Segmentation:
   	- [Guide to Semantic Segmentation with DL (Qure.au)](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
   	- [A Review on Deep Learning Techniques Applied to Semantic Segmentation](https://arxiv.org/pdf/1704.06857.pdf)
+    - [Fully Convolutional Networks for Semantic Segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 
+  6. #### GANs:
+    - [Generative Adversarial Networks Explained](http://kvfrans.com/generative-adversial-networks-explained/)
+    - [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
+
+  6. #### Math:
+    - [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)
+    - [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+    - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
 ##### Classification:
 1. [10 Classifier showdown in Scikit learn](https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn)
 
