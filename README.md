@@ -46,10 +46,28 @@
     - [Generative Adversarial Networks Explained](http://kvfrans.com/generative-adversial-networks-explained/)
     - [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/)
 
-  6. #### Math:
+  7. #### Math:
     - [A guide to convolution arithmetic for deep learning](https://arxiv.org/pdf/1603.07285.pdf)
     - [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
     - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+    
+  8. ### Adversarial Leanrning/Attacks:
+    - [Adversarial Machine learning Tutorial](https://aaai18adversarial.github.io/) - This is a blog with various papers listed in it.
+    - ['How neural networks learn' - Part II: Adversarial Examples](https://www.youtube.com/watch?v=4rFOkpI0Lcg) - Video
+ 
+    
+    
+  9. ### Supervised nets:
+    - [Deeply Supervised nets](https://arxiv.org/pdf/1409.5185.pdf)
+    - 
+  10. ### Autoencoders: 
+    - [Deep Autoencoder - Blog](https://skymind.ai/wiki/deep-autoencoder)
+    - [Disentangled Variational Auto-Encoder for Semi-supervised Learning](https://arxiv.org/pdf/1709.05047.pdf)
+    - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8&t=325s) - Video
+    - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) - Original concept Paper
+    - [Adversarial Autoencoders](https://arxiv.org/pdf/1511.05644.pdf)
+    - [Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+    
 ##### Classification:
 1. [10 Classifier showdown in Scikit learn](https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn)
 
