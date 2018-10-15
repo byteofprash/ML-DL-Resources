@@ -71,6 +71,7 @@
 ##### Classification:
 1. [10 Classifier showdown in Scikit learn](https://www.kaggle.com/jeffd23/10-classifier-showdown-in-scikit-learn)
 
-
+* ## Reinforcement Learning: 
+[A long peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html): Also contains some nice resources in the reference section.
 
 
